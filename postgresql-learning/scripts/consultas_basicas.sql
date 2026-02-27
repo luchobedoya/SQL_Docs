@@ -122,3 +122,7 @@ SELECT
 FROM public.actor
 WHERE last_name NOT IN ('Chase', 'Nicholson', 'Mostel')
 ORDER BY last_name ASC;
+
+
+----------------------
+
